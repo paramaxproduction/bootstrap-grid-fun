@@ -1,3 +1,10 @@
+.small-dark-title{
+	background: black;
+	color: white;
+	padding: 6px 12px;
+	display: inline-block;
+}
+
 #glyphicons-ul{
 	margin-top: 20px;
 }
@@ -6,4 +13,12 @@
 	background: #eee; 
 	padding: 20px 10px 0; 
 	border-radius: 5px 5px 0 0;
+}
+
+#main-cols{
+	padding-top: 10px;
+}
+
+img{
+	max-width: 100%;
 }
